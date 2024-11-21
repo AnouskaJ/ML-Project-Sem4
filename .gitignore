@@ -1,0 +1,33 @@
+# Ignore datasets and folders with large files
+brain_tumor_dataset/
+no/
+yes/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore environment and dependency files
+env/
+venv/
+*.env
+
+# Ignore temporary or backup files
+*.bak
+*.swp
+*.tmp
+*.log
+
+# Ignore compiled files and other outputs
+*.out
+*.exe
+*.dll
